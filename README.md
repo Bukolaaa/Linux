@@ -1,7 +1,7 @@
 # Touch command
 
 The touch command is used to  create a file
-![alt text](image.png)
+![alt text](https://github.com/Bukolaaa/Linux/issues/1#issue-2945592543)
 
 # Mkdir command
 
